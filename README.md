@@ -107,7 +107,7 @@ This task is closely related to **Reinforcement Learning from Human Feedback (RL
 | ✅                  | ❌                | 1      | 1.35201          |
 | ✅                  | ❌                | 3      | 1.58984          |
 
-> ✅ Best result: **LogLoss = 1.04398**, with softmax applied only during inference
+> ✅ Best result: **LogLoss = 1.04219**, with softmax applied only during inference
 
 ---
 
